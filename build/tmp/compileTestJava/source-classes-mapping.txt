@@ -1,0 +1,4 @@
+ru/denisqq/mapstructlombok/mapper/OrganizationMapperTest.java
+ ru.denisqq.mapstructlombok.mapper.OrganizationMapperTest
+ru/denisqq/mapstructlombok/mapper/EmployeeMapperTest.java
+ ru.denisqq.mapstructlombok.mapper.EmployeeMapperTest

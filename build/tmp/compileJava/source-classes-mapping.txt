@@ -1,0 +1,20 @@
+ru/denisqq/mapstructlombok/dto/OrganizationDto.java
+ ru.denisqq.mapstructlombok.dto.OrganizationDto
+ ru.denisqq.mapstructlombok.dto.OrganizationDto$1
+ ru.denisqq.mapstructlombok.dto.OrganizationDto$OrganizationDtoBuilder
+ru/denisqq/mapstructlombok/mapper/DtoMapper.java
+ ru.denisqq.mapstructlombok.mapper.DtoMapper
+ru/denisqq/mapstructlombok/model/Organization.java
+ ru.denisqq.mapstructlombok.model.Organization
+ ru.denisqq.mapstructlombok.model.Organization$OrganizationBuilder
+ru/denisqq/mapstructlombok/mapper/OrganizationMapper.java
+ ru.denisqq.mapstructlombok.mapper.OrganizationMapper
+ru/denisqq/mapstructlombok/dto/EmployeeDto.java
+ ru.denisqq.mapstructlombok.dto.EmployeeDto
+ ru.denisqq.mapstructlombok.dto.EmployeeDto$1
+ ru.denisqq.mapstructlombok.dto.EmployeeDto$EmployeeDtoBuilder
+ru/denisqq/mapstructlombok/model/Employee.java
+ ru.denisqq.mapstructlombok.model.Employee
+ ru.denisqq.mapstructlombok.model.Employee$EmployeeBuilder
+ru/denisqq/mapstructlombok/mapper/EmployeeMapper.java
+ ru.denisqq.mapstructlombok.mapper.EmployeeMapper
